@@ -1,0 +1,88 @@
+body {
+    background: #283747;
+    font-family: 'Exo', sans-serif;
+    color: #D6DBDF;
+}
+
+
+.blurb h2 {
+    color:white;
+    font-weight: 100;
+    font-size: 2.5rem;
+}
+
+.blurb p {
+    color: #D8D8D8;
+    font-weight: 100;
+    font-size: 1.25rem;
+    line-height: 2;
+}
+
+.content {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.webcam a {
+    'Exo', sans-serif;
+    margin-left: 20rem;
+    color: white;
+    text-decoration: none; 
+}
+.webcam a:hover {
+color: #D6DBDF;
+}
+
+
+
+
+#mainNavbar {
+    font-size: 1 rem;
+    font-weight: 100;
+    
+}
+
+#mainNavbar .nav-link {
+    color: white;
+}
+
+#mainNavbar .nav-link:hover {
+   color:#D6DBDF;
+}
+
+#mainNavbar .navbar-brand {
+    color:#ea1c2c;
+    font-size: 1.5rem;
+    font-weight: 100;
+    
+}
+
+#headingGroup span {
+    color:#ea1c2c;
+}
+
+#headingGroup h1 {
+    font-weight: 100;
+    font-size: 3rem;
+}
+
+.navbar.scrolled {
+    background: #1f567c;
+}
+
+.fa.fa-facebook {
+    color: #3b5998;
+}
+.fa.fa-instagram {
+    color: #E1306C;
+}
+.fa.fa-tripadvisor {
+    color:#00af87;
+}
+
+@media (max-width: 1200px) {
+    #headingGroup h1 {
+    font-weight: 100;
+    font-size: 2rem;
+    }
+}
